@@ -1,6 +1,8 @@
 # emergency
 Turn on a spinning red light when a dire situation arises, like a build breaking.
 
+![spinning red light](http://i.ebayimg.com/00/s/MTAwMFgxMDAw/z/uB0AAMXQMfZRnQMQ/$(KGrHqUOKo4FGT1mu(kDBRnQMP5N1!~~60_57.JPG)
+
 ## Installing
 
 1. `npm install emergency`
