@@ -6,8 +6,8 @@
 	},
 	"jobs": [
 		{
-			"name": "catalyst",
-			"url": "http://build.bluejeansnet.com/job/Catalyst/"
+			"name": "mybuild",
+			"url": "http://build.corp.com/job/mybuild/"
 		}
 	]
 }

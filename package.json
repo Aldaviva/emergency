@@ -1,21 +1,29 @@
 {
-  "name": "emergency",
-  "version": "0.0.0",
-  "description": "Turn on a spinning red light when a dire situation arises, like a build breaking.",
-  "dependencies": {
-    "pr-request2": "git://github.com/aldaviva/pr-request2.git#e714437d0abc58d645028231f095196c4c1ae911",
-    "rpio": "0.4.2",
-    "q": "1.2.0"
-  },
-  "main": "index.js",
-  "keywords": [
-    "gpio",
-    "jenkins",
-    "ci",
-    "build",
-    "alert",
-    "alarm"
-  ],
-  "author": "Ben Hutchison <ben@aldaviva.com>",
-  "license": "MIT"
+    "name": "emergency",
+    "version": "0.0.0",
+    "description": "Turn on a spinning red light when a dire situation arises, like a build breaking.",
+    "dependencies": {
+	"pr-request2": "git://github.com/aldaviva/pr-request2.git#e714437d0abc58d645028231f095196c4c1ae911",
+	"q": "1.2.0",
+	"wiring-pi": "2.0.0"
+    },
+    "main": "index.js",
+    "keywords": [
+	"gpio",
+	"jenkins",
+	"ci",
+	"build",
+	"alert",
+	"alarm"
+    ],
+    "author": "Ben Hutchison <ben@aldaviva.com> (http://aldaviva.com)",
+    "license": "MIT",
+    "bugs": {
+	"url": "https://github.com/Aldaviva/emergency/issues"
+    },
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/Aldaviva/emergency.git"
+    },
+    "homepage": "https://github.com/Aldaviva/emergency"
 }

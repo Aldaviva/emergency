@@ -2,3 +2,4 @@ node_modules
 *~
 ncore*
 config.json
+npm-debug.log
