@@ -1,0 +1,13 @@
+{
+	"checkFrequency": 10000,
+	"cooldownTimeout": 120000,
+	"gpio": {
+		"pin": 16
+	},
+	"jobs": [
+		{
+			"name": "catalyst",
+			"url": "http://build.bluejeansnet.com/job/Catalyst/"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+node_modules
+*~
+ncore*
+config.json
