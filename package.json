@@ -1,11 +1,11 @@
 {
     "name": "emergency",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Turn on a spinning red light when a dire situation arises, like a build breaking.",
     "dependencies": {
 	"pr-request2": "git://github.com/aldaviva/pr-request2.git#e714437d0abc58d645028231f095196c4c1ae911",
 	"q": "1.2.0",
-	"wiring-pi": "2.0.0"
+	"rpio": "0.4.3"
     },
     "main": "index.js",
     "keywords": [
